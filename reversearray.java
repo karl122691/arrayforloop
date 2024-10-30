@@ -5,10 +5,11 @@
 package sum.and.average;
 
 import javax.swing.JOptionPane;
-
-/**
- *
- * @author ADMIN
+/*
+ * Name: Joseph Karl V. Boncavil
+ * Course: Computer Engineering - Section 1
+ * Lab Activity: Array Implementation and For Loop Practice - Problem 3
+ * Submission Date: October 24, 2024
  */
 public class reversearray {
     public static void main(String[] args) {

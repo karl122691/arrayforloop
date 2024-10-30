@@ -5,10 +5,11 @@
 package sum.and.average;
 
 import javax.swing.JOptionPane;
-
-/**
- *
- * @author ADMIN
+/*
+ * Name: Joseph Karl V. Boncavil
+ * Course: Computer Engineering - Section 1
+ * Lab Activity: Array Implementation and For Loop Practice - Problem 4
+ * Submission Date: October 24, 2024
  */
 public class Frequency {
 
